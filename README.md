@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Smart%20Access-Servo%20Motor-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Smart%20Access-Servo%20Motor-0d2a1a?style=for-the-badge&logo=servo&logoColor=66ff88" />
   <img src="https://img.shields.io/badge/Gas%20Sensor-MQ%20Series-F44336?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Water%20Level-HC--SR04-2196F3?style=for-the-badge" />
 </div>
