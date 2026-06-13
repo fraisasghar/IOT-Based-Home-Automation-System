@@ -18,3 +18,21 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a472a&height=2">
+
+## Introduction
+
+This project presents an **IoT-based smart home automation system** built around the **ESP32 microcontroller**, integrating three essential modules into a single unified platform. The system features a **mobile-controlled automatic door lock** using servo motor actuation, a **real-time gas leakage detection system** with dual alerts (local buzzer + remote Wi-Fi notification), and an **automated water management system** utilizing ultrasonic sensing for tank level monitoring. The development followed a rigorous engineering workflow, from breadboard prototyping and Proteus simulation to final PCB implementation on Vero board demonstrating a scalable, cost-effective solution for modern smart home applications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
