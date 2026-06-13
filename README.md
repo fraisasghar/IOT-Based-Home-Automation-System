@@ -51,6 +51,7 @@ This project presents an **IoT-based smart home automation system** built around
 
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/fd460904-dbcd-49da-a9ac-ae9e76b12191" />
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/50c871ad-5ccc-4ec5-9429-5fc81cc8023d" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/bfc17bfb-0060-4108-89c9-c21100ecab97" />
+
 
 
