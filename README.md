@@ -55,3 +55,14 @@ This project presents an **IoT-based smart home automation system** built around
 
 
 
+<div align="center">
+
+🌟 **Automate Your Home with Smart Precision** 🌟
+
+If this project helped you understand IoT-based home automation, give it a ⭐ **Star** on GitHub!
+
+**Built with ❤️ for the Embedded Systems Community**  
+               **Happy Building!** 🚀
+
+</div>
+
