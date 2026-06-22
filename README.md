@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,100:0d8abc&height=200&section=header&text=IoT%20Home%20Automation&fontSize=48&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=ESP32%20|%20Gas%20Detection%20|%20Smart%20Lock%20|%20Water%20Management&descAlign=50&descAlignY=88&descSize=18&descColor=fce4ec&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=IoT%20Home%20Automation&fontSize=52&desc=ESP32%20|%20Gas%20Detection%20|%20Smart%20Lock%20|%20Water%20Management&descSize=18&fontColor=FFFFFF&stroke=000000&strokeWidth=0&stroke=00000000&descAlignY=65" />
 </div>
 
-<h3 align="center">IoT-Based Home Automation and Safety System</h3>
+<h3 align="center" style="color: #DC143C; font-size: 24px;">IoT-Based Home Automation and Safety System</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Subject-Embedded%20Systems-006400?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microcontroller-ESP32-1E3A8A?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulation-Proteus-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCB-Vero%20Board-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subject-Embedded%20Systems-DC143C?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontroller-ESP32-06B6D4?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulation-Proteus-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCB-Vero%20Board-3B82F6?style=for-the-badge" />
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Smart%20Access-Servo%20Motor-0d2a1a?style=for-the-badge&logo=servo&logoColor=66ff88" />
-  <img src="https://img.shields.io/badge/Gas%20Sensor-MQ%20Series-F44336?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Water%20Level-HC--SR04-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart%20Access-Servo%20Motor-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gas%20Sensor-MQ%20Series-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Water%20Level-HC--SR04-06B6D4?style=for-the-badge" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a472a&height=2">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:8B5CF6&height=2">
 
 ## Introduction
 
