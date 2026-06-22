@@ -2,10 +2,10 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=IoT%20Home%20Automation&fontSize=52&desc=ESP32%20|%20Gas%20Detection%20|%20Smart%20Lock%20|%20Water%20Management&descSize=18&fontColor=FFFFFF&stroke=000000&strokeWidth=0&stroke=00000000&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=IoT%20Home%20Automation&fontSize=52&desc=ESP32%20|%20Gas%20Detection%20|%20Smart%20Lock%20|%20Water%20Management&descSize=18&fontColor=FFFFFF&stroke=000000&strokeWidth=0&stroke=00000000&descAlignY=70" />
 </div>
 
-<h3 align="center" style="color: #DC143C; font-size: 24px;">IoT-Based Home Automation and Safety System</h3>
+<h2 align="center" style="color: #DC143C; font-size: 34px;">IoT-Based Home Automation and Safety System</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Subject-Embedded%20Systems-DC143C?style=for-the-badge&logo=arduino&logoColor=white" />
