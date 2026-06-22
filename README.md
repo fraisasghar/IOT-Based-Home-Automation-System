@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=IoT%20Home%20Automation&fontSize=52&desc=ESP32%20|%20Gas%20Detection%20|%20Smart%20Lock%20|%20Water%20Management&descSize=18&fontColor=FFFFFF&stroke=000000&strokeWidth=0&stroke=00000000&descAlignY=65" />
 </div>
@@ -6,7 +9,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Subject-Embedded%20Systems-DC143C?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microcontroller-ESP32-06B6D4?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontroller-ESP32-4A148C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Simulation-Proteus-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCB-Vero%20Board-3B82F6?style=for-the-badge" />
 </div>
@@ -14,7 +17,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Smart%20Access-Servo%20Motor-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gas%20Sensor-MQ%20Series-DC143C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Water%20Level-HC--SR04-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Water%20Level-HC--SR04-008080?style=for-the-badge" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:8B5CF6&height=2">
